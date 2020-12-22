@@ -6,7 +6,6 @@
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/superfish.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/superfish.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tours.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours.html" afterDir="false" />
     </list>
@@ -69,7 +68,7 @@
       <workItem from="1607056823962" duration="4408000" />
       <workItem from="1607609653555" duration="643000" />
       <workItem from="1608002976461" duration="27000" />
-      <workItem from="1608643161848" duration="12233000" />
+      <workItem from="1608643161848" duration="12950000" />
     </task>
     <servers />
   </component>
