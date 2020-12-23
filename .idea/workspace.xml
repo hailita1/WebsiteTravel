@@ -3,20 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="180f0123-f43c-4b8c-91e9-30d69fa8e102" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenSansCondensed-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenSansCondensed-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenSansCondensed-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PathwayGothicOne-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/superfish.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/superfish.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tours.html" beforeDir="false" afterPath="$PROJECT_DIR$/tours.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +66,7 @@
       <workItem from="1607609653555" duration="643000" />
       <workItem from="1608002976461" duration="27000" />
       <workItem from="1608643161848" duration="14161000" />
-      <workItem from="1608696355381" duration="3219000" />
+      <workItem from="1608696355381" duration="3864000" />
     </task>
     <servers />
   </component>
