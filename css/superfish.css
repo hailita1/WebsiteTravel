@@ -46,9 +46,9 @@ nav {
 
 
 .sf-menu > li > a {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     font-size: 28px;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Bangers', cursive;
     color: #fff;
     position: relative;
     font-weight: 300px;

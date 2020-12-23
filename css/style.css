@@ -50,7 +50,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
-	font-family:'Open Sans Condensed', sans-serif;
+	font-family:'cursive', cursive;
 	color: #263555;
 }
 
@@ -58,7 +58,7 @@ h3 {
 	font-size: 38px;
 	line-height: 44px;
 	color: #263555;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	margin-bottom: 50px;
 }
 
@@ -71,9 +71,9 @@ h4 {
 	font-size: 20px;
 	line-height: 20px;
 	font-weight: 300;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Bangers', cursive;
 	color: #fff;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	padding-top: 33px;
 	margin-bottom: 8px;
 }
@@ -363,7 +363,7 @@ figcaption h3 {
 	padding-top: 18px !important;
 	font-size: 38px;
 	margin-bottom: 18px !important;
-	font-family: 'Open Sans Condensed', sans-serif;
+	font-family: 'Bangers', cursive;
 
 }
 
