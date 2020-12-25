@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="180f0123-f43c-4b8c-91e9-30d69fa8e102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lienhe.html" beforeDir="false" afterPath="$PROJECT_DIR$/lienhe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mienbac.html" beforeDir="false" afterPath="$PROJECT_DIR$/mienbac.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miennam.html" beforeDir="false" afterPath="$PROJECT_DIR$/miennam.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mientrung.html" beforeDir="false" afterPath="$PROJECT_DIR$/mientrung.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monngon.html" beforeDir="false" afterPath="$PROJECT_DIR$/monngon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainghiem.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainghiem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trangchu.html" beforeDir="false" afterPath="$PROJECT_DIR$/trangchu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +81,7 @@
       <workItem from="1608813255312" duration="5177000" />
       <workItem from="1608821337728" duration="2970000" />
       <workItem from="1608827589201" duration="170000" />
-      <workItem from="1608863705243" duration="2627000" />
+      <workItem from="1608863705243" duration="3883000" />
     </task>
     <servers />
   </component>
@@ -105,6 +98,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1607042492471" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608867606391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1608867606391" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606920743072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
