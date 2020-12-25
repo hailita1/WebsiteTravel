@@ -464,6 +464,10 @@ a.gal:hover img {
     height: 46px;
 }
 
+.checked {
+    color: orange;
+}
+
 /*Content*/
 
 .content {

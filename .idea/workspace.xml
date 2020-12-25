@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="180f0123-f43c-4b8c-91e9-30d69fa8e102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mientrung1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logosin.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog1.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lienhe.html" beforeDir="false" afterPath="$PROJECT_DIR$/lienhe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mienbac.html" beforeDir="false" afterPath="$PROJECT_DIR$/mienbac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mienbac1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mienbac1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miennam.html" beforeDir="false" afterPath="$PROJECT_DIR$/miennam.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miennam1.html" beforeDir="false" afterPath="$PROJECT_DIR$/miennam1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mientrung.html" beforeDir="false" afterPath="$PROJECT_DIR$/mientrung.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mientrung1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mientrung1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monngon.html" beforeDir="false" afterPath="$PROJECT_DIR$/monngon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monngon1.html" beforeDir="false" afterPath="$PROJECT_DIR$/monngon1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainghiem.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainghiem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trangchu.html" beforeDir="false" afterPath="$PROJECT_DIR$/trangchu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,14 +58,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phantom\Downloads\journey\images" />
+      <recent name="C:\Users\Phantom\Downloads\journey" />
+      <recent name="C:\Users\Phantom\Downloads\journey\video" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Phantom\Downloads\journey" />
       <recent name="C:\Users\Phantom\Downloads\journey\font" />
       <recent name="C:\Users\Phantom\Downloads\journey\images" />
-      <recent name="C:\Users\Phantom\Downloads\journey\video" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Phantom\Downloads\journey" />
       <recent name="C:\Users\Phantom\Downloads\journey\video" />
     </key>
   </component>
@@ -81,7 +95,8 @@
       <workItem from="1608813255312" duration="5177000" />
       <workItem from="1608821337728" duration="2970000" />
       <workItem from="1608827589201" duration="170000" />
-      <workItem from="1608863705243" duration="16807000" />
+      <workItem from="1608863705243" duration="17435000" />
+      <workItem from="1608883200228" duration="6583000" />
     </task>
     <servers />
   </component>
